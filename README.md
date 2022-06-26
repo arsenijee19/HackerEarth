@@ -1,7 +1,5 @@
-# HackerEarth
-HackerEarth Solutions /// practice
-
+# HackerEarth - Competitive Programming Practice Solutions
 
 https://www.hackerearth.com
 
-Basic Programming / Algorithms / Mathematics / Data
+
